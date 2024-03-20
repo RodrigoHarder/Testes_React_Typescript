@@ -13,7 +13,7 @@ Projeto desenvolvido para o artigo "Escrevedo testes automatizados com React e T
 
 ## Como posso utilizar os arquivos?
 
-Para usar os arquivos basta clonar este repositório ou baixá-lo em seu desktop, abrir o terminal na pasta onde os arquivos estão baixados, usar o comando `npm install` para instalar as dependências necessárias e usar o comando `npm run dev` para rodar o projeto.
+Para usar os arquivos basta clonar este repositório ou baixá-lo em seu desktop, abrir o terminal na pasta onde os arquivos estão baixados, usar o comando `npm install` para instalar as dependências necessárias e usar o comando `npm run dev` para rodar o projeto. lembre-se de ter o Node instalado, caso não tenha você pode acessar o [site do Node](https://nodejs.org/en).
 
 ## Tecnologias
 
