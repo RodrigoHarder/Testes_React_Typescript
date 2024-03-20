@@ -1,30 +1,26 @@
-# React + TypeScript + Vite
+<h1 align="center">Lista de Filmes </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div>
+  <p align="center">
+    <img alt="Licença do projeto com os dizeres: MIT" src="https://img.shields.io/github/license/RodrigoHarder/teste-react-typescript.svg">
+    <img alt="Status do projeto com os dizeres: Concluído" src="https://img.shields.io/static/v1?label=Status&message=Concluído &color=blue">
+  </p>
+</div>
 
-Currently, two official plugins are available:
+## Descrição do Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Projeto desenvolvido para o artigo "Escrevedo testes automatizados com React e TypeScript" com o objetivo de aprender a criar testes em React com TypeScript utilizando React Testing Library e Jest.
 
-## Expanding the ESLint configuration
+## Como posso utilizar os arquivos?
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Para usar os arquivos basta clonar este repositório ou baixá-lo em seu desktop, abrir o terminal na pasta onde os arquivos estão baixados, usar o comando `npm install` para instalar as dependências necessárias e usar o comando `npm run dev` para rodar o projeto.
 
-- Configure the top-level `parserOptions` property like this:
+## Tecnologias
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<div>
+  <img alt="Retângulo preto escrito React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Retângulo azul escrito Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Retângulo azul escrito CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Retângulo preto escrito Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <img alt="Retângulo preto escrito Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
+</div>
