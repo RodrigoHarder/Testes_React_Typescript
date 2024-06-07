@@ -24,3 +24,10 @@ Para usar os arquivos basta clonar este repositório ou baixá-lo em seu desktop
   <img alt="Retângulo preto escrito Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
   <img alt="Retângulo preto escrito Testing Library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
 </div>
+
+## Mais informações:
+
+- Você pode ler mais sobre o Vite na [documentação](https://vitejs.dev/guide/).
+- Você pode ler mais sobre o React na [documentação](https://reactjs.org/).
+- Você pode ler mais sobre o Testing Library [nesta documentação](https://testing-library.com/docs/react-testing-library/intro/).
+- Você pode ler sobre o Jest [nesta documentação](https://jestjs.io/pt-BR/docs/getting-started).
